@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(7, 9, 39);
+    font-family: 'Merriweather', serif;
+    font-size: 110%;
+}
+
+#foto{
+    border-radius: 50%;
+}
+
+#botonmenu{
+    color: rgb(155, 154, 247);
+    background-color: #2b246d;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+[class="col-md-2  text-center"]{
+    background-color: rgb(19, 18, 66);
+}
+
+h1, h3, h4{
+    background-color: rgb(19, 18, 66);
+    max-width: max-content;
+    padding: 10px;
+    color: aliceblue;
+}
+
+h6{
+    color: aliceblue;
+}
+
+p{
+    background-color: rgb(19, 18, 66);
+    color: aliceblue;
+}
+
+span{
+    color: aliceblue;
+}
+
+#piedepagina{
+    background-color: rgb(19, 18, 66);
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+#redes{
+    padding-top: 30px;
+}
+
+.nav-link{
+    color: aliceblue;
+}
+
+button{
+    float: right;
+    background-color: black;
+    color: lightcyan;
+    border-radius: 40%;
+    align-self: flex-start;
+}
+
+
+

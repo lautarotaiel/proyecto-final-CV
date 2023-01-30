@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(233, 231, 231);
+    font-family: 'Roboto', sans-serif;
+}
+
+#foto{
+    border-radius: 50%;
+}
+#botonmenu{
+    color: rgb(65, 42, 0);
+    background-color: #e6cf87;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+[class="col-md-2  text-center"]{
+    background-color: rgb(170, 134, 66);
+}
+h1, h3, h4{
+    background-color: rgb(185, 149, 81);
+    max-width: max-content;
+    padding: 10px;
+    color: rgb(24, 14, 1);
+}
+h6{
+    color: rgb(24, 14, 1);
+}
+
+p{
+    background-color: rgb(185, 149, 81);
+    color: rgb(24, 14, 1);
+}
+span{
+    color: rgb(24, 14, 1);
+    
+}
+#piedepagina{
+    background-color: rgb(170, 134, 66);
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+#redes{
+    padding-top: 30px;
+}
+.nav-link{
+    color: rgb(24, 14, 1);
+}
+button{
+    float: right;
+    background-color: rgb(240, 205, 7);
+    color: lightcyan;
+    border-radius: 40%;
+    align-self: flex-start;
+    border-color: #e6cf87;
+}
